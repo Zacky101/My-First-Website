@@ -1,0 +1,9 @@
+h1{color:blue; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+
+p{color:royalblue; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+.header{border-style:double; border-width:10px; border-color:darkblue; text-align:center;}
+
+.items{display:flex; border-style:ridge; margin:10px; padding:25px; justify-content:space-between;}
+
+.id{display:flex; background-color:darkturquoise; width:200px; height:200px;}
